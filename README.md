@@ -65,5 +65,10 @@ Result: x = 2.00, y = 3.00
 **Screenshots**
 
 <img width="848" height="717" alt="Screenshot 2025-11-25 032502" src="https://github.com/user-attachments/assets/cbf6eea1-9134-45b7-80cb-77d3cb1749fc" />
+<img width="661" height="363" alt="Screenshot 2025-11-25 032534" src="https://github.com/user-attachments/assets/18edb770-b62b-4da0-bd98-f9062d2bd681" />
+<img width="1129" height="1029" alt="Screenshot 2025-11-25 034055" src="https://github.com/user-attachments/assets/2c63b451-71f1-40a6-b0ac-1ae4db3080bb" />
+<img width="748" height="818" alt="Screenshot 2025-11-25 032550" src="https://github.com/user-attachments/assets/ec4aa879-dce4-47f9-a58e-fc73decf7fe7" />
+<img width="975" height="801" alt="Screenshot 2025-11-25 032518" src="https://github.com/user-attachments/assets/5d6326ce-84d9-4506-a950-38c10839b166" />
+
 
 
