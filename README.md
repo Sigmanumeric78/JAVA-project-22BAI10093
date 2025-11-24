@@ -63,3 +63,7 @@ $2x - 1y = 1$
 Result: x = 2.00, y = 3.00
 
 **Screenshots**
+
+<img width="848" height="717" alt="Screenshot 2025-11-25 032502" src="https://github.com/user-attachments/assets/cbf6eea1-9134-45b7-80cb-77d3cb1749fc" />
+
+
